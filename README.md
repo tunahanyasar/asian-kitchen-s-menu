@@ -13,7 +13,8 @@
 
 ## 🌐 Live Demo
 
-> (You can add a live demo link here)
+Visit the live website : : [Asian Kitchen's Menu](https://asian-kitchen-s-menu.vercel.app/)
+
 
 ---
 
@@ -21,11 +22,11 @@
 
 1. Clone the project:
 ```bash
-git clone https://github.com/tunahanyasar/asian-kitchens-menu.git
+git clone https://github.com/tunahanyasar/asian-kitchen-s-menu.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd asian-kitchens-menu
+cd asian-kitchen-menu
 ```
 3. Open `index.html` in a web browser.
 

@@ -13,7 +13,7 @@
 
 ## 🌐 Canlı Demo
 
-> (Canlı demo linki ekleyebilirsiniz)
+Canlı siteyi ziyaret edin: [Asian Kitchen's Menu](https://asian-kitchen-s-menu.vercel.app/)
 
 ---
 
@@ -21,11 +21,11 @@
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/tunahanyasar/asian-kitchens-menu.git
+git clone https://github.com/tunahanyasar/asian-kitchen-s-menu.git
 ```
 2. Proje dizinine gidin:
 ```bash
-cd asian-kitchens-menu
+cd asian-kitchen-menu
 ```
 3. `index.html` dosyasını bir web tarayıcısında açın.
 
