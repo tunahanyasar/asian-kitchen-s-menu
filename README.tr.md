@@ -13,7 +13,7 @@
 
 ## 🌐 Canlı Demo
 
-Canlı siteyi ziyaret edin: [Asian Kitchen's Menu](https://asian-kitchen-s-menu.vercel.app/)
+Canlı siteyi ziyaret edin : [Asian Kitchen's Menu](https://asian-kitchen-s-menu.vercel.app/)
 
 ---
 
