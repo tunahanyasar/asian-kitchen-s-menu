@@ -13,7 +13,7 @@
 
 ## 🌐 Live Demo
 
-Visit the live website : : [Asian Kitchen's Menu](https://asian-kitchen-s-menu.vercel.app/)
+Visit the live website : [Asian Kitchen's Menu](https://asian-kitchen-s-menu.vercel.app/)
 
 
 ---
