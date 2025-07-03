@@ -25,7 +25,7 @@ git clone https://github.com/tunahanyasar/asian-kitchen-s-menu.git
 ```
 2. Proje dizinine gidin:
 ```bash
-cd asian-kitchen-menu
+cd asian-kitchen-s-menu
 ```
 3. `index.html` dosyasını bir web tarayıcısında açın.
 
@@ -98,3 +98,9 @@ cd asian-kitchen-menu
 
 * GitHub: [@tunahanyasar](https://github.com/tunahanyasar)
 * LinkedIn: [Tunahan Yaşar](https://www.linkedin.com/in/tunahan-yasar/) 
+
+---
+
+### 📚 Kaynak
+
+* Özellikler ve mantık, [bu örnek projeden](https://ayerdelen.github.io/AsianKitchen/) esinlenilmiştir. 
